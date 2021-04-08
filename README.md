@@ -1,6 +1,4 @@
-## Coursera [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) specialization
-
-[accomplishment](https://www.coursera.org/account/accomplishments/specialization/certificate/K57D8UF82USU)
+### Coursera [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) specialization; [accomplishment](https://www.coursera.org/account/accomplishments/specialization/certificate/K57D8UF82USU)
 
 |course|accomplishment|
 |------|--------------|
